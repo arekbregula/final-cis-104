@@ -1,0 +1,9 @@
+{
+  "name": "final",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Arkadiusz Bregula",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
+}
